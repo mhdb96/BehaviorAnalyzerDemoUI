@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorAnalyzerDemo", "BehaviorAnalyzerDemo\BehaviorAnalyzerDemo.csproj", "{C92A57A0-58FD-4214-A470-D04DF7B6725F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BADLibrary", "BADLibrary\BADLibrary.csproj", "{B88DFD57-46F0-4CFE-9374-FB70CD6FCF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92A57A0-58FD-4214-A470-D04DF7B6725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92A57A0-58FD-4214-A470-D04DF7B6725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92A57A0-58FD-4214-A470-D04DF7B6725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92A57A0-58FD-4214-A470-D04DF7B6725F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88DFD57-46F0-4CFE-9374-FB70CD6FCF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88DFD57-46F0-4CFE-9374-FB70CD6FCF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88DFD57-46F0-4CFE-9374-FB70CD6FCF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88DFD57-46F0-4CFE-9374-FB70CD6FCF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833976C3-B7DB-47C5-A2E5-F95FC535D7D2}
+	EndGlobalSection
+EndGlobal
